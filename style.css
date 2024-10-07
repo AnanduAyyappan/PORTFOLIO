@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+
+.ki{
+    color: skyblue;
+    font-size: xx-large;
+}
+.first{
+    color: white;
+    z-index: 10;
+    position: absolute;
+    left: 3vb;
+    top: 3vh;
+}
+.navi{
+    margin-left: 60vb;
+    z-index: 10;
+    position: absolute;
+    left: 30vb;
+    top: 3vh;
+    text-decoration: none;
+
+}
+a{
+     text-decoration: none;
+     padding: 2vb;
+}
+.heade{
+    display: flex;
+    float: left;
+    height: 80vh;
+    width: 100%;
+    z-index: 1;
+}
+.search{
+    padding-left: 4vb;
+    z-index: 10;
+    position: absolute;
+    left: 135vb;
+    top: 3vh;
+}
+.c9{
+    width: 100%;
+    height: 100%;
+}
+.content{
+    color: skyblue;
+    position: absolute;
+    left: 6vb;
+    top: 50vh;
+    font-weight: 900;
+    display: block;
+}
+#butt{
+    padding: 4px;
+}
